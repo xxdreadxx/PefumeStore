@@ -1,248 +1,1252 @@
 {
   "Files": [
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoreMVC.bundle.scp.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoreMVC.bundle.scp.css",
       "PackagePath": "staticwebassets\\CoreMVC.bundle.scp.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\css\\site.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\barRating\\barRating.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\barRating\\barRating.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\calendar2\\pignose.calendar.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\calendar2\\pignose.calendar.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\calendar2\\semantic.ui.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\calendar2\\semantic.ui.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\calendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\calendar\\fullcalendar.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\data-table\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\data-table\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\data-table\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\data-table\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\data-table\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\data-table\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\jsgrid\\jsgrid-theme.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\jsgrid\\jsgrid-theme.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\jsgrid\\jsgrid.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\jsgrid\\jsgrid.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\lobi-panel\\lobipanel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\lobi-panel\\lobipanel.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\mmc-chat.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\mmc-chat.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\nestable\\nestable.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\nestable\\nestable.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\nixon.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\nixon.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.skinHTML5.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.skinHTML5.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.skinModern.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.skinModern.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.skinNice.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.skinNice.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.skinSimple.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\rangSlider\\ion.rangeSlider.skinSimple.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\rangSlider\\normalize.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\rangSlider\\normalize.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\scrollable\\scrollable.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\scrollable\\scrollable.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\sidebar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\sidebar.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\sweetalert\\sweetalert.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\sweetalert\\sweetalert.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\themify-icons.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\css\\fa-brands.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\css\\fa-brands.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\css\\fa-brands.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\css\\fa-brands.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\css\\fa-regular.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\css\\fa-regular.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\css\\fa-regular.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\css\\fa-regular.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\css\\fa-solid.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\css\\fa-solid.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\css\\fa-solid.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\css\\fa-solid.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\fa-brands.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\fa-brands.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\fa-regular.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\fa-regular.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\fa-solid.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\fa-solid.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fontAwesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fontAwesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\MontserratLight.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\MontserratLight.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\MontserratLight.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\MontserratLight.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\MontserratLight.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\MontserratLight.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\MontserratLight.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\MontserratLight.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\MontserratLight.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\MontserratLight.woff2"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont_files\\viewsource.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont_files\\viewsource.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\1.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\avatar.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\avatar\\usa-flag.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar\\usa-flag.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\chat-person-add.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\chat-person-add.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\close.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\fjords.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\fjords.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\hand.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\hand.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\lights.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\lights.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\maximize.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\maximize.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\minimize.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\minimize.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\nature.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\nature.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\newyork.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\newyork.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\paris.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\paris.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\paypal.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\picture.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\picture.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\preview1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\preview1.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\rangeSliderimg\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\rangeSliderimg\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\rangeSliderimg\\sprite-skin-modern.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\rangeSliderimg\\sprite-skin-modern.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\rangeSliderimg\\sprite-skin-nice.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\rangeSliderimg\\sprite-skin-nice.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\rangeSliderimg\\sprite-skin-simple.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\rangeSliderimg\\sprite-skin-simple.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\sanfran.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sanfran.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\smile.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\smile.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\user-1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\user-1.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\user-profile.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\user-profile.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\user.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\images\\video-cam.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\video-cam.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\barRating\\barRating.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\barRating\\barRating.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\barRating\\jquery.barrating.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\barRating\\jquery.barrating.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\calendar-2\\moment.latest.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\calendar-2\\moment.latest.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\calendar-2\\pignose.calendar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\calendar-2\\pignose.calendar.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\calendar-2\\pignose.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\calendar-2\\pignose.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\calendar-2\\prism.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\calendar-2\\prism.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\calendar-2\\semantic.ui.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\calendar-2\\semantic.ui.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\calendar\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\calendar\\fullcalendar-init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\chart-js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chart-js\\Chart.bundle.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\chart-js\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chart-js\\chartjs-init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\chat-widget\\chat-widget-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chat-widget\\chat-widget-init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.flash.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\datatables-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\datatables-init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\datatables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\datatables.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\jszip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\jszip.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\pdfmake.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\vfs_fonts.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\datamap\\d3.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\datamap\\d3.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\datamap\\datamap-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\datamap\\datamap-init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\datamap\\datamaps.world.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\datamap\\datamaps.world.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\datamap\\topojson.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\datamap\\topojson.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\curvedLines.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\curvedLines.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\excanvas.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\flot-chart-init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\flot-tooltip\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\flot-tooltip\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.threshold.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.threshold.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flot-chart\\jquery.flot.time.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\flowtype.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\flowtype.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\gmap\\gmap.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\gmap\\gmap.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\invoice-edit.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\invoice-edit.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jquery-ui\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jquery-ui\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jquery.nanoscroller.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jquery.nanoscroller.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\db.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\db.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.checkbox.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.checkbox.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.control.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.control.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.number.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.number.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.select.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.select.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.text.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.text.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.textarea.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\fields\\jsgrid.field.textarea.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid-init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.core.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.core.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.field.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.field.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.load-indicator.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.load-indicator.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.load-strategies.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.load-strategies.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.sort-strategies.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.sort-strategies.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.validation.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\jsgrid\\jsgrid.validation.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\knob\\knob.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\knob\\knob.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\lobi-panel\\lobipanel.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\lobi-panel\\lobipanel.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\mmc-chat.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\mmc-chat.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\mmc-common.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\mmc-common.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\moment\\moment.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\morris-chart\\morris-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\morris-chart\\morris-init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\morris-chart\\morris.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\morris-chart\\morris.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\nestable\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\nestable\\jquery.nestable.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\nestable\\nestable.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\nestable\\nestable.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\owl-carousel\\owl.carousel-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\owl-carousel\\owl.carousel-init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\peitychart\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\peitychart\\jquery.peity.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\peitychart\\peitychart.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\peitychart\\peitychart.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\rangeSlider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\rangeSlider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\rangeSlider\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\rangeSlider\\moment-with-locales.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\rangeSlider\\moment.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\rangeSlider\\moment.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\rangeSlider\\rangeslider.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\rangeSlider\\rangeslider.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\rating1\\jRate.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\rating1\\jRate.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\rating1\\jRate.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\rating1\\jRate.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\scrollable\\holder.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\scrollable\\holder.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\scrollable\\jquery-asScrollable.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\scrollable\\jquery-asScrollable.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\scrollable\\jquery-asScrollbar.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\scrollable\\jquery-asScrollbar.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\scrollable\\scrollable.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\scrollable\\scrollable.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\sidebar.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\sidebar.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\sparklinechart\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\sparklinechart\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\sparklinechart\\sparkline.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\sparklinechart\\sparkline.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\sweetalert\\sweetalert.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\sweetalert\\sweetalert.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\toastr\\toastr.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\toastr\\toastr.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\country\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\jquery.vmap.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\lib\\vector-map\\vector.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\vector-map\\vector.init.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\lib\\lobipanel\\css\\lobipanel.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\lobipanel\\css\\lobipanel.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\lib\\lobipanel\\css\\lobipanel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\lobipanel\\css\\lobipanel.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\lib\\lobipanel\\js\\lobipanel.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\lobipanel\\js\\lobipanel.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\assets\\lib\\lobipanel\\js\\lobipanel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\lobipanel\\js\\lobipanel.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\logo\\logo.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\logo\\logoSmall.png",
+      "PackagePath": "staticwebassets\\Admin\\logo\\logoSmall.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\logo\\nixon logo.ai",
+      "PackagePath": "staticwebassets\\Admin\\logo\\nixon logo.ai"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\Admin\\logo\\nixon-logo.png",
+      "PackagePath": "staticwebassets\\Admin\\logo\\nixon-logo.png"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\favicon.ico",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\js\\site.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\wwwroot\\logo.jpg",
+      "PackagePath": "staticwebassets\\logo.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CoreMVC.Microsoft.AspNetCore.StaticWebAssets.props",

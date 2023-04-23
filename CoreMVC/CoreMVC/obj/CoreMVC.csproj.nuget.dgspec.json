@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\CoreMVC.csproj": {}
+    "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\CoreMVC.csproj": {}
   },
   "projects": {
-    "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\CoreMVC.csproj": {
+    "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\CoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\CoreMVC.csproj",
+        "projectUniqueName": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\CoreMVC.csproj",
         "projectName": "CoreMVC",
-        "projectPath": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\CoreMVC.csproj",
+        "projectPath": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\CoreMVC.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Pj\\Pj_Perfume\\CoreMVC\\CoreMVC\\obj\\",
+        "outputPath": "E:\\Pj\\Pj_Perfume\\git_CoreMVC\\CoreMVC\\CoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,22 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.13, )"
