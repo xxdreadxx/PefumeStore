@@ -8,7 +8,7 @@ namespace Models.EF
     public partial class StoreDbContext : DbContext
     {
         public StoreDbContext()
-            : base("name=DbContext")
+            : base("name=StoreDbContext")
         {
         }
 
@@ -25,12 +25,14 @@ namespace Models.EF
         public virtual DbSet<d_Bill_Buy> d_Bill_Buy { get; set; }
         public virtual DbSet<d_Bill_Buy_Info> d_Bill_Buy_Info { get; set; }
         public virtual DbSet<d_Bill_Info> d_Bill_Info { get; set; }
+        public virtual DbSet<d_Login_Info> d_Login_Info { get; set; }
         public virtual DbSet<d_News> d_News { get; set; }
         public virtual DbSet<d_Product> d_Product { get; set; }
         public virtual DbSet<d_Product_Image> d_Product_Image { get; set; }
         public virtual DbSet<d_Product_Size_Price> d_Product_Size_Price { get; set; }
         public virtual DbSet<d_User_Info> d_User_Info { get; set; }
         public virtual DbSet<d_Voucher> d_Voucher { get; set; }
+        public virtual DbSet<s_History> s_History { get; set; }
         public virtual DbSet<s_Permission> s_Permission { get; set; }
         public virtual DbSet<s_Permission_Group> s_Permission_Group { get; set; }
         public virtual DbSet<s_Report> s_Report { get; set; }

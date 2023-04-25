@@ -5,7 +5,12 @@ namespace CoreMVC.Areas.Admin.Controllers
     [Area("Admin")]
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        public ActionResult Login()
         {
             return View();
         }
