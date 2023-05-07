@@ -1,4 +1,4 @@
-namespace Models.EF
+﻿namespace Models.EF
 {
     using System;
     using System.Collections.Generic;
@@ -16,6 +16,7 @@ namespace Models.EF
         [StringLength(50)]
         public string Password { get; set; }
 
+        //1: Đang sử dụng; 2: Vô hiệu hóa; 10: Xóa
         public byte? Status { get; set; }
     }
 }

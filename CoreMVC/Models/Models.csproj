@@ -53,6 +53,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dao\HistoryDAO.cs" />
+    <Compile Include="Dao\PermissionDAO.cs" />
     <Compile Include="Dao\UserDAO.cs" />
     <Compile Include="EF\c_Branch.cs" />
     <Compile Include="EF\c_Cource_Logistic.cs" />
