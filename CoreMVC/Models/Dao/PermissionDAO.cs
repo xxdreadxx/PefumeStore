@@ -17,10 +17,40 @@ namespace Models.Dao
 		{
 			PermissionGroup result = new PermissionGroup();
 
+			string sqlQuery = string.Empty;
+			StringBuilder sb = new StringBuilder();
+			sb.Append("select pg.*, st.Name as SalaryTableName, st.Type as SalaryType, st.SalaryPerTime as SalaryPerTime ");
+			sb.Append("from s_Permission_Group pg left join c_SalaryTable st on st.ID = pg.ID_SalaryTable");
+			sb.Append($"where pg.ID = {id}");
+			sqlQuery = sb.ToString();
+			result = db.Database.SqlQuery<PermissionGroup>(sqlQuery).FirstOrDefault();
+			if (result != null)
+			{
+				string sqlQuery1 = string.Empty;
+				StringBuilder sb1 = new StringBuilder();
+				sb1.Append("select * from s_Permission where ID in (" + result.List_ID_Permission + ")");
+				sqlQuery1 = sb1.ToString();
+				List<s_Permission> lstPermission= db.Database.SqlQuery<s_Permission>(sqlQuery1).ToList();
+				result.lstPermission = lstPermission;
+				return result;
+			}
+			else
+			{
+				return null;
+			}
+		}
 
-
-			return result;
-
+		public List<PermissionGroup> getAllPermissionGroup()
+		{
+			List<PermissionGroup> lstData = new List<PermissionGroup>();
+			string sqlQuery = string.Empty;
+			StringBuilder sb = new StringBuilder();
+			sb.Append("select pg.*, st.Name as SalaryTableName, st.Type as SalaryType, st.SalaryPerTime as SalaryPerTime ");
+			sb.Append("from s_Permission_Group pg left join c_SalaryTable st on st.ID = pg.ID_SalaryTable");
+			sb.Append($"where pg.Status <> 10");
+			sqlQuery = sb.ToString();
+			lstData = db.Database.SqlQuery<PermissionGroup>(sqlQuery).ToList();
+			return lstData;
 		}
 	}
 }
