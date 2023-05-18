@@ -146,6 +146,27 @@ namespace Models.Dao
             d_User_Info result = db.d_User_Info.FirstOrDefault(x => x.ID == ID);
             if (result != null)
             {
+                result.Avatar = item.Avatar;
+                result.DateOfBirth = item.DateOfBirth;
+                result.EditedDate = DateTime.Now;
+                result.Email = item.Email;
+                result.Facebook = item.Facebook;
+                result.Gender = item.Gender;
+                result.ID_PA_AU_1 = item.ID_PA_AU_1;
+                result.ID_PA_AU_2 = item.ID_PA_AU_2;
+                result.ID_PA_AU_3 = item.ID_PA_AU_3;
+                result.ID_TA_AU_1 = item.ID_TA_AU_1;
+                result.ID_TA_AU_2 = item.ID_TA_AU_2;
+                result.ID_TA_AU_3 = item.ID_TA_AU_3;
+                result.ID_PermissionGroup = item.ID_PermissionGroup;
+                result.Instagram = item.Instagram;
+                result.Name = item.Name;
+                result.PermanentAddress = item.PermanentAddress;
+                result.Phone = item.Phone;
+                result.TemporaryAddress = item.TemporaryAddress;
+                result.Tiktok = item.Tiktok;
+                result.Twitter = item.Twitter;
+                db.SaveChanges();
                 mess = "Cập nhật thông tin thành công";
                 ActionStatus = hisDao.Create(result.ID_Username, "Cập nhật thông tin tài khoản", "Update", "UserInfo");
 			}

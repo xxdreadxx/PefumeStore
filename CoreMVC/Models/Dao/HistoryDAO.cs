@@ -24,5 +24,23 @@ namespace Models.Dao
 			db.s_History.Add(hitem);
 			return true;
 		}
+		public List<s_History> getlstData(DateTime fromDate, DateTime toDate, int IDUser, string Action, string Controller)
+		{
+			List<s_History> lstData = new List<s_History>();
+			lstData = db.s_History.Where(x => x.CreatedDate >= fromDate && x.CreatedDate <= toDate).OrderByDescending(x => x.ID).ToList();
+			if(IDUser != 0)
+			{
+				lstData = lstData.Where(x => x.ID_User == IDUser).OrderByDescending(x => x.ID).ToList();
+			}
+			if (Action != "")
+			{
+				lstData = lstData.Where(x => x.Action == Action).OrderByDescending(x => x.ID).ToList();
+			}
+			if (Controller != "")
+			{
+				lstData = lstData.Where(x => x.Controller == Controller).OrderByDescending(x => x.ID).ToList();
+			}
+			return lstData;
+		}
 	}
 }
