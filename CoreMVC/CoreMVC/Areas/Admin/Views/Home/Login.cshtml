@@ -17,6 +17,7 @@
 	<link href="~/admin/assets/css/lib/mmc-chat.css" rel="stylesheet" />
 	<link href="~/admin/assets/css/lib/sidebar.css" rel="stylesheet">
 	<link href="~/admin/assets/css/lib/bootstrap.min.css" rel="stylesheet">
+	<link href="~/admin/assets/css/lib/toastr/toastr.min.css" rel="stylesheet">
 	<link href="~/admin/assets/css/lib/nixon.css" rel="stylesheet">
 	<link href="~/admin/assets/lib/lobipanel/css/lobipanel.min.css" rel="stylesheet">
 	<link href="~/admin/assets/css/style.css" rel="stylesheet">
@@ -36,11 +37,11 @@
 							<form>
 								<div class="form-group">
 									<label>Tài khoản</label>
-									<input type="email" class="form-control" placeholder="Không được để trống">
+									<input type="text" id="txtUserName" class="form-control" placeholder="Không được để trống">
 								</div>
 								<div class="form-group">
 									<label>Mật khẩu</label>
-									<input type="password" class="form-control" placeholder="Không được để trống">
+									<input type="password" id="txtPass" class="form-control" placeholder="Không được để trống">
 								</div>
 								<div class="checkbox">
 									<label>
@@ -49,9 +50,8 @@
 									<label class="pull-right">
 										<a href="page-reset-password.html">Quên mật khẩu?</a>
 									</label>
-
 								</div>
-								<button type="submit" class="btn btn-primary btn-flat m-b-30 m-t-30">ĐĂNG NHẬP</button>
+								<input type="button" class="btn btn-primary btn-flat m-b-30 m-t-30" onclick="DangNhap()" value="ĐĂNG NHẬP">
 								@*<div class="social-login-content">
 									<div class="social-button">
 										<button type="button" class="btn btn-primary bg-facebook btn-flat btn-addon m-b-10"><i class="ti-facebook"></i>Sign in with facebook</button>
@@ -68,7 +68,71 @@
 			</div>
 		</div>
 	</div>
-
+	<script src="~/admin/assets/js/lib/jquery.min.js"></script><!-- jquery vendor -->
+	<script src="~/admin/assets/js/lib/jquery.nanoscroller.min.js"></script><!-- nano scroller -->
+	<script src="~/admin/assets/js/lib/sidebar.js"></script><!-- sidebar -->
+	<script src="~/admin/assets/js/lib/bootstrap.min.js"></script><!-- bootstrap -->
+	<script src="~/admin/assets/js/lib/mmc-common.js"></script>
+	<script src="~/admin/assets/js/lib/mmc-chat.js"></script>
+	<script src="~/admin/assets/js/lib/toastr/toastr.min.js"></script><!-- scripit init-->
+	<script src="~/admin/assets/js/lib/toastr/toastr.init.js"></script><!-- scripit init-->
+	<script src="~/admin/assets/js/scripts.js"></script><!-- scripit init-->
+	<script>
+		function DangNhap() {
+			var username = $('#txtUserName').val();
+			var password = $('#txtPass').val();
+			if (username == '' || password == '') {
+				toastr.error('Chưa nhập username hoặc pasword!','Thông báo',{
+				"positionClass": "toast-top-right",
+				timeOut: 5000,
+				"closeButton": true,
+				"debug": false,
+				"newestOnTop": true,
+				"progressBar": true,
+				"preventDuplicates": true,
+				"onclick": null,
+				"showDuration": "300",
+				"hideDuration": "1000",
+				"extendedTimeOut": "1000",
+				"showEasing": "swing",
+				"hideEasing": "linear",
+				"showMethod": "fadeIn",
+				"hideMethod": "fadeOut",
+				"tapToDismiss": false
+				})
+			}
+			else{
+				var fData=new FormData();
+				fData.append('username', username);
+				fData.append('password', password);
+				$.ajax({
+					async: false,
+					url: '/Admin/Home/DangNhap',
+					data: {
+						username:username,
+						password:password
+					},
+					dataType: "json",
+					type:'GET',
+					cache: false,
+					contentType: false,
+					processData: false,
+					success: function (res) {
+						if (res.status == true) {
+							toastr.error(res.mess,'Thông báo!', 5000);
+							setTimeout(function(){
+								location.url='/Admin/Home/Index';
+							}, 1000);
+						} else {
+						    alert("Cannot add to list !");
+						}
+					},
+					error: function(){
+						toastr.error('Có lỗi xảy ra, vui lòng thử lại sau','Lỗi!', 5000);
+					}
+				})
+			}
+		}
+	</script>
 </body>
-
 </html>

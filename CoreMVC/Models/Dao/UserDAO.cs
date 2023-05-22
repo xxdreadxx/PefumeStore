@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.Entity;
+//using System.Data.Entity;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
@@ -138,11 +138,11 @@ namespace Models.Dao
 			}
 		}
 
-		public string ChangeInfo(int ID, d_User_Info item, ref bool ActionStatus)
+		public bool ChangeInfo(int ID, d_User_Info item, ref string mess)
         {
-            ActionStatus = true;
+            bool ActionStatus = true;
 
-			string mess = "";
+			mess = "";
             d_User_Info result = db.d_User_Info.FirstOrDefault(x => x.ID == ID);
             if (result != null)
             {
@@ -168,14 +168,38 @@ namespace Models.Dao
                 result.Twitter = item.Twitter;
                 db.SaveChanges();
                 mess = "Cập nhật thông tin thành công";
-                ActionStatus = hisDao.Create(result.ID_Username, "Cập nhật thông tin tài khoản", "Update", "UserInfo");
+				string content = "Cập nhật avatar tài khoản " + result.Name + "";
+				ActionStatus = hisDao.Create(result.ID_Username, content, "Update", "UserInfo");
 			}
             else
             {
                 mess = "Không tồn tại bản ghi, vui lòng thử lại";
                 ActionStatus = false;
 			}
-            return mess;
+            return ActionStatus;
+		}
+
+		public bool ChangeAvatar(int ID, string AvaLink, ref string mess)
+		{
+			bool ActionStatus = true;
+
+			mess = "";
+			d_User_Info result = db.d_User_Info.FirstOrDefault(x => x.ID == ID);
+			if (result != null)
+			{
+				result.Avatar = AvaLink;
+				result.EditedDate = DateTime.Now;
+				db.SaveChanges();
+				mess = "Cập nhật avatar thành công";
+				string content = "Cập nhật avatar tài khoản " + result.Name + "";
+				ActionStatus = hisDao.Create(result.ID_Username, content, "Update", "UserInfo");
+			}
+			else
+			{
+				mess = "Không tồn tại bản ghi, vui lòng thử lại";
+				ActionStatus = false;
+			}
+			return ActionStatus;
 		}
 	}
 }
